@@ -1,0 +1,11 @@
+colonne,type,non_nuls,nuls,exemples
+Postes,object,1091497,0," Produits régaliens nets ,  Immobilisations incorporelles ,  Immobilisations corporelles "
+Sous-postes,object,1091497,0," Impôt sur le revenu ,  Impôt sur les sociétés ,  Enregistrement, timbre, autres contributions et taxes indirectes "
+Indicateurs de synthèse,object,1091497,0,"R001_Impôt sur le revenu, R002_Impôt sur les sociétés, R005_Enr., timbre, autres contr. et taxes ind"
+Indicateurs de détail,object,917587,173910,"A001_Coûts de développement, A002_Logiciels, concessions, brevets, A003_Autres immobilisations incorporelles"
+Compte,int64,1091497,0,"7711000000, 7712000000, 7715000000"
+Nature Budgétaire,object,815122,276375,"110102, 110104, 130105"
+Programme,object,1055560,35937,"0156, RBG, 0200"
+Libellé Ministère,object,880627,210870,"Économie, finances et relance, Justice, Transition écologique"
+Année,int32,1091497,0,"2022, 2021, 2020"
+Balance,float64,548196,543301,"-5762963841.71, -352509415.0, -16228747755.31"
